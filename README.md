@@ -1,2 +1,1 @@
-# 1.-Zadaca
-1. Zadaca
+Molio bih vas da zanemarite visak nepotrebnih fileova :D

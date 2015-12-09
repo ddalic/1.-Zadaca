@@ -1,0 +1,6 @@
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\GenericsCollection\GenericsCollection\bin\Debug\GenericsCollection.exe.config
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\GenericsCollection\GenericsCollection\bin\Debug\GenericsCollection.exe
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\GenericsCollection\GenericsCollection\bin\Debug\GenericsCollection.pdb
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\GenericsCollection\GenericsCollection\obj\Debug\GenericsCollection.csprojResolveAssemblyReference.cache
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\GenericsCollection\GenericsCollection\obj\Debug\GenericsCollection.exe
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\GenericsCollection\GenericsCollection\obj\Debug\GenericsCollection.pdb

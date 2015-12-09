@@ -1,0 +1,6 @@
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\IntCollection\IntCollection\bin\Debug\IntCollection.exe.config
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\IntCollection\IntCollection\bin\Debug\IntCollection.exe
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\IntCollection\IntCollection\bin\Debug\IntCollection.pdb
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\IntCollection\IntCollection\obj\Debug\IntCollection.csprojResolveAssemblyReference.cache
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\IntCollection\IntCollection\obj\Debug\IntCollection.exe
+C:\Users\Domagoj\1.-Zadaca\1.-Zadaca\IntCollection\IntCollection\obj\Debug\IntCollection.pdb
